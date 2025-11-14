@@ -1,0 +1,130 @@
+PCBNEW-LibModule-V1  2025-11-12 19:03:10
+# encoding utf-8
+Units mm
+$INDEX
+1823683
+$EndINDEX
+$MODULE 1823683
+Po 0 0 0 15 6914d9ee 00000000 ~~
+Li 1823683
+Cd 1823683
+Kw Connector
+Sc 0
+At STD
+AR 
+Op 0 0 0
+T0 0 0 1.27 1.27 0 0.254 N V 21 N "J**"
+T1 0 0 1.27 1.27 0 0.254 N I 21 N "1823683"
+DS -2 -8.5 23 -8.5 0.2 24
+DS 23 -8.5 23 5.2 0.2 24
+DS 23 5.2 -2 5.2 0.2 24
+DS -2 5.2 -2 -8.5 0.2 24
+DS -2 -8.5 23 -8.5 0.1 21
+DS 23 -8.5 23 5.2 0.1 21
+DS 23 5.2 -2 5.2 0.1 21
+DS -2 5.2 -2 -8.5 0.1 21
+DS -4.25 -9.5 24 -9.5 0.05 24
+DS 24 -9.5 24 6.2 0.05 24
+DS 24 6.2 -4.25 6.2 0.05 24
+DS -4.25 6.2 -4.25 -9.5 0.05 24
+DC -3.35 0 -3.4 0 0.254 21
+$PAD
+Po 0 0
+Sh "1" R 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 0 -7
+Sh "2" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 3.5 0
+Sh "3" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 3.5 -7
+Sh "4" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 7 0
+Sh "5" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 7 -7
+Sh "6" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 10.5 0
+Sh "7" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 10.5 -7
+Sh "8" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 14 0
+Sh "9" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 14 -7
+Sh "10" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 17.5 0
+Sh "11" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 17.5 -7
+Sh "12" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 21 0
+Sh "13" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 21 -7
+Sh "14" C 1.65 1.65 0 0 900
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$EndMODULE 1823683
+$EndLIBRARY
