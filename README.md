@@ -15,7 +15,7 @@ Capacitor 100nF - 1026
 2 x Connector 1x7 - 1823683 - PhoenixContact
 
 
-> **_NOTE:_**  **There are no I2C resistors on the board, if this is used for somethig else they must be placed somewhere else**
+> **_NOTE:_**  **There are no I2C resistors on the board, if this is used for somethig else they must be placed somewhere else if needed**
 
 
 
